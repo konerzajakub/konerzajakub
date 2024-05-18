@@ -1,4 +1,4 @@
-### Hi.
+### Hi 👋
 ![alt text](https://github.com/konerzajakub/konerzajakub/blob/main/bosch01-para-gif.gif)
 
 <!--
