@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://github.com/konerzajakub/konerzajakub/blob/main/bosch01-para-gif.gif)
 
 <!--
 **konerzajakub/konerzajakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
