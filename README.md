@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello!, Ahoj!, Hallo!, こんにちは!, Servus!, Ciao!, Hola!, Grüezi!, Hej!, Привіт!, 안녕하세요!, Cześć!, Ahoj!, Zdravo!👋
 ![alt text](https://github.com/konerzajakub/konerzajakub/blob/main/bosch01-para-gif.gif)
 
 <!--
